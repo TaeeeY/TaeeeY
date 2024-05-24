@@ -2,12 +2,10 @@
 
 <!--
 **Taeyoung20230727/Taeyoung20230727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<p align="center">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
     <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=Oracle&logoColor=white">
-</p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
