@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=CD5C5C&height=200&section=header&text=Hello&fontSize=60&fontAlignY=40&fontColor=FFFFFF" />
-</p>
+# Welcome to Tae's GitHub! 👋
 
-<div style="background-color: #C3E2C3; padding: 20px;">
-  <h1 align="center">Welcome to Tae's GitHub! 👋</h1>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=60&fontAlignY=40&desc=👋&descAlignY=50&descAlign=80" />
+</p>
 
 
 <p align="center">
