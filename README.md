@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Hello&fontSize=60" />
+<p>
 
 <div style="background-color: #C3E2C3; padding: 20px;">
   <h1 align="center">Welcome to Tae's GitHub! 👋</h1>
