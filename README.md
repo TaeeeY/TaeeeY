@@ -6,8 +6,6 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
     <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=Oracle&logoColor=white">
 
-
-
     개발도구
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white">
@@ -40,16 +38,6 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white">
 
     
-
-    
-
-
-
-    
-
-
-
-
 
 
 - 🔭 I’m currently working on ...
