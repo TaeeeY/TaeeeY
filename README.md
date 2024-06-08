@@ -1,7 +1,7 @@
 # Welcome to Tae's GitHub! 👋
 
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20&text=Welcome!section=header&fontSize=60&fontAlignY=40&fontColor=FFFFFF&customColorList=B22222,F08080,FF6347" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text" />
 </p>
 
 
