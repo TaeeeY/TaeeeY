@@ -10,6 +10,40 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taeyoung20230727&layout=compact" alt="Top Langs">
 </p>
 
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tae&show_icons=true&theme=default" alt="Tae's GitHub Stats">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tae&layout=compact" alt="Top Langs">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tae&theme=default" alt="GitHub Streak">
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tae&style=flat-square" alt="Profile Views">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tae" alt="Tae's GitHub Trophies">
+</p>
+
+
+
+
+
+
 <p align="center">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white">
