@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=red&height=150&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=150&section=header"/>
 
 <div style="background-color: #C3E2C3; padding: 20px;">
   <h1 align="center">Welcome to Tae's GitHub! 👋</h1>
@@ -41,4 +41,4 @@
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white">
 
     
-<img src="https://capsule-render.vercel.app/api?type=slice&color=red&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=DC143C&height=150&section=footer"/>
