@@ -1,7 +1,7 @@
-## Hi there 👋
+##Hi~ Tae Git Hub! 👋
 
                                                                 My Tech Stack
-
+<p align="center">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white">
 
