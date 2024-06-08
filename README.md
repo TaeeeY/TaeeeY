@@ -9,13 +9,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Taeyoung20230727&show_icons=true&theme=default" alt="Tae's GitHub Stats">
 </p>
 
-![
-Top Langs](https://github-readme-stats.vercel.app/api?username=
-Taeyoung20230727&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taeyoung20230727&layout=compact" alt="Top Langs">
+</p>
 
-![
-GitHub Streak](https://github-readme-stats.vercel.app/api?username=
-Taeyoung20230727&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taeyoung20230727&theme=default" alt="GitHub Streak">
+</p>
 
 
 
