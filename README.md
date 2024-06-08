@@ -7,6 +7,21 @@
   <img src="https://example.com/path-to-your-background-image.png" width="100%">
 </p>
 
+
+![
+Tae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=
+Taeyoung20230727&show_icons=true&theme=default)
+
+![
+Top Langs](https://github-readme-stats.vercel.app/api?username=
+Taeyoung20230727&show_icons=true&theme=default)
+
+![
+GitHub Streak](https://github-readme-stats.vercel.app/api?username=
+Taeyoung20230727&show_icons=true&theme=default)
+
+
+
 <p align="center">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white">
