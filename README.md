@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Taeyoung20230727&show_icons=true&theme=default" alt="Tae's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taeyoung20230727&layout=compact" alt="Top Langs">
 </p>
 
 
