@@ -2,13 +2,12 @@
   <h1 align="center">Welcome to Tae's GitHub! 👋</h1>
 </div>
 
-                                                                My Tech Stack
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Taeyoung20230727&show_icons=true&theme=default" alt="Tae's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taeyoung20230727&layout=compact" alt="Top Langs">
 </p>
+
 
 
 
@@ -37,16 +36,3 @@
 
   <p align="center">
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white">
-
-    
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
