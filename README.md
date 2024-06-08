@@ -3,14 +3,11 @@
 </div>
 
                                                                 My Tech Stack
+
+
 <p align="center">
-  <img src="https://example.com/path-to-your-background-image.png" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Taeyoung20230727&show_icons=true&theme=default" alt="Tae's GitHub Stats">
 </p>
-
-
-![
-Tae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=
-Taeyoung20230727&show_icons=true&theme=default)
 
 ![
 Top Langs](https://github-readme-stats.vercel.app/api?username=
