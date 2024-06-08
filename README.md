@@ -41,4 +41,4 @@
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white">
 
     
-<img src="https://capsule-render.vercel.app/api?type=wave&color=DC143C&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=150&section=footer"/>
