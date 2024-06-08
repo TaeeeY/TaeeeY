@@ -9,7 +9,9 @@
 </p>
 
 
-
+<p align="center">
+  <strong>Tech Stack📚</strong>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white">
