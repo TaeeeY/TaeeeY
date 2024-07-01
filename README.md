@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=반갑습니다.%20개발자%20정태영입니다." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=반갑습니다.%20개발자%20정태영입니다.&fontSize=50" />
 </p>
 
 <p align="center">
