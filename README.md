@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text="WelCome :)"" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=반갑습니다.%20개발자%20정태영입니다." />
 </p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Taeyoung20230727&show_icons=true&theme=default" alt="Tae's GitHub Stats">
