@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=반갑습니다.%20개발자%20정태영입니다.&fontSize=50&fontAlign=50&fontAlignY=40" />
 </p>
 
+------------------------------------------------------------
+- ✏️ 국가지원 롯데 백엔드 과정을 수료하였습니다.
+------------------------------------------------------------
+
 
 
 
