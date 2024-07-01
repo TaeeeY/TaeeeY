@@ -1,7 +1,7 @@
 # Welcome to Tae's GitHub! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome👋" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=개발자 정태영 입니다." />
 </p>
 
 
