@@ -37,7 +37,7 @@
 
 <p align="center">    
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=Oracle&logoColor=white">
 
 
 
