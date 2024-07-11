@@ -37,7 +37,11 @@
 
 <p align="center">    
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/OracleDB-#61DAFB?style=flat&logo=Oracle&logoColor=white">
+
+
+
+
 
   <p align="center">
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white">
